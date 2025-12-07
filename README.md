@@ -10,10 +10,18 @@ This project showcases my web design skills and serves as a portfolio example fo
 - Contact form with EmailJS integration and modal confirmation
 - Fiverr offer section for freelance services
 
+
+---
+
 ## 🚀 Deployment
 This site is hosted using **GitHub Pages**.  
-You can view the live demo here:  
-[https://username.github.io/taskgrunt-landing](https://username.github.io/taskgrunt-landing)
+Live demo: [https://taskgrunt.github.io/taskgrunt-landing/](https://taskgrunt.github.io/taskgrunt-landing/)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use and adapt it with attribution.
+
 
 
 
